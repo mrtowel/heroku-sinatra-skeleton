@@ -1,2 +1,2 @@
-require './api'
-run Sinatra::Application
+require './app/application'
+run Skeleton::App
